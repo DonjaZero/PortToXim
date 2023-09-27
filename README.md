@@ -5,7 +5,7 @@ Teleport to @XimTheBard
 ## Features
 
 * Use the `/ptx` command in chat, or...
-* Optionally create a custom keybind so you can port to Xim at the touch or a button!
+* Optionally create a custom keybind so you can port to Xim at the touch of a button!
 
 ## What it does
 
