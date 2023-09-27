@@ -71,9 +71,9 @@ function ptxPortToXim(relationship)
         if PTX.Debug then
             d("PTX: Attempting JumpToFriend()")
         end
-     JumpToFriend(PTX.Xim)
-     return true
-end
+        JumpToFriend(PTX.Xim)
+        return true
+    end
 
     -- default
     if PTX.Debug then
