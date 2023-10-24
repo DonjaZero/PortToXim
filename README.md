@@ -9,7 +9,7 @@ Teleport to @XimTheBard
 
 ## What it does
 
-Attempts to teleport your character to a guild member, friend, or guild member with the display name of "@XimTheBard".
+Attempts to teleport your character to a group member, friend, or guild member with the display name of "@XimTheBard".
 
 ## What it doesn't do
 
@@ -20,11 +20,11 @@ Anything else.
 Slash command
 * "/ptx" or "/ptx group" to port to Xim as a group member (DEFAULT); Xim does not have to be "crown" or group leader
 * "/ptx friend" to port to Xim as someone on your friends list
-* "/ptx guild" to port to Xim as a guildie (member in a common guild)
+* "/ptx guild" to port to Xim as a guild member in a common guild
 
 Keybind
 
-In Controls, set the addon keybind for "Port To Xim" based on your relationship to Xim (group member, friend, and/or guildie).
+In Controls, set the addon keybind for "Port To Xim" based on your relationship to Xim (group member, friend, and/or guild member).
 
 ## Known issues
 

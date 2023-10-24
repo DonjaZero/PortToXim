@@ -1,6 +1,6 @@
 PortToXim = PortToXim or {}
 PortToXim.Name = "PortToXim"
-PortToXim.Version = "1.1"
+PortToXim.Version = "1.1.1"
 PortToXim.Author = "|cDAFF21DonjaZero|r"
 PTX = PortToXim
 
@@ -10,7 +10,7 @@ PTX.Xim = "@XimTheBard"
 PTX.SlashcommandText = "/ptx"
 PTX.KeybindGroupText = "As group member"
 PTX.KeybindFriendText = "As friend"
-PTX.KeybindGuildText = "As guildie"
+PTX.KeybindGuildText = "As guild member"
 
 local function ptx_OnAddOnLoaded(event, addonName)
     if (addonName ~= PTX.Name) then
