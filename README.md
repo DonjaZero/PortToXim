@@ -19,7 +19,7 @@ Anything else.
 
 Slash command
 * "/ptx" or "/ptx group" to port to Xim as a group member (DEFAULT); Xim does not have to be "crown" or group leader
-* "/ptx friend" to port to Xim as someone on you friend's list
+* "/ptx friend" to port to Xim as someone on your friends list
 * "/ptx guild" to port to Xim as a guildie (member in a common guild)
 
 Keybind
