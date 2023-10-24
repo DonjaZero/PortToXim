@@ -18,17 +18,21 @@ Anything else.
 ## Usage
 
 Slash command
-* "/ptx" or "/ptx guild" to port to Xim as a guildie (member in a common guild); this is the default
-* "/ptx friend" to port to Xim as a friend
-* "/ptx group" to port to Xim as a group member (Xim does not have to be "crown" or group leader)
+* "/ptx" or "/ptx group" to port to Xim as a group member (DEFAULT); Xim does not have to be "crown" or group leader
+* "/ptx friend" to port to Xim as someone on your friends list
+* "/ptx guild" to port to Xim as a guildie (member in a common guild)
 
 Keybind
 
-In Controls, set the addon keybind for "Port To Xim" based on your relationship to Xim (guildie, friend, and/or group member).
+In Controls, set the addon keybind for "Port To Xim" based on your relationship to Xim (group member, friend, and/or guildie).
 
 ## Known issues
 
-You must be able to teleport to @XimTheBard in order for this addon to work!  Xim must be online.  You must be in a guild with Xim, or you must be friends with Xim, or you must be in a group with Xim, depending on the option or keybind chosen.  Xim must not have blocked you.  Xim must be in a location you can teleport to.  This excludes places like a house for which you do not have permission, a full instance, or a zone you do not have access to (content you have not purchased).
+You must be able to teleport to @XimTheBard in order for this addon to work!  Xim must be online.  You must be in a guild with Xim, or you must be friends with Xim, or you must be in a group with Xim, depending on the command option or keybind chosen.  Xim must not have blocked you.  Xim must be in a location you can teleport to.  This excludes places like a house for which you do not have permission, a full instance, or a zone you do not have access to (content you have not purchased).
+
+## Notes
+
+Created upon a request from @Kattatonia, who ports to Xim an absurd number of times. To be fair, both Xim and Kattatonia are quite excellent ESO players and exemplary community members. The question really is "Why aren't YOU porting to Xim, too?"
 
 ## Releases
 
