@@ -1,6 +1,6 @@
 PortToXim = PortToXim or {}
 PortToXim.Name = "PortToXim"
-PortToXim.Version = "1.1.1"
+PortToXim.Version = "1.1.2"
 PortToXim.Author = "|cDAFF21DonjaZero|r"
 PTX = PortToXim
 
