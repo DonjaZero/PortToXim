@@ -4,9 +4,9 @@
 ## Author: |cDAFF21DonjaZero|r
 # By request from Kattatonia
 
-## AddOnVersion: 6
-## Version: 1.1.4
-## APIVersion: 101042 101043
+## AddOnVersion: 7
+## Version: 1.1.5
+## APIVersion: 101043 101044
 
 ## IsLibrary: false
 
